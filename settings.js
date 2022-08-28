@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is nATURE bOT🔥
 My Creator is HAG///\\\😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+94761311902'] //Owner number in aive msg
-global.premium = ['+94761311902'] //Owner Number info
-global.ownernomer = '+94761311902' //Owner Number <<<
+global.owner = ['+94702869598'] //Owner number in aive msg
+global.premium = ['+94702869598'] //Owner Number info
+global.ownernomer = '+94702869598' //Owner Number <<<
 
 global.ownername = '😎HAG' //Owner Name
 global.botname = ' ☬Nature༒bot࿐' //Bot Name
